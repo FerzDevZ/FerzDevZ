@@ -1,54 +1,80 @@
 <div align="center">
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=FerzDevZ&fontSize=50&fontAlignY=50&fontColor=ffffff&desc=IT%20Software%20Engineer&descAlignY=75&descSize=20" alt="FerzDevZ Banner" />
+  <h1>FerzDevZ</h1>
+  <p><b>IT Software Engineer & Technical Consultant</b></p>
+  <br />
+  
+  <blockquote>
+    Architecting scalable backend systems, driving automation, <br>
+    and delivering high-performance IT solutions.
+  </blockquote>
 </div>
 
-<h3 align="center">Software Architect & Technical Consultant</h3>
-<p align="center">
-  Designing robust architectures and scalable backend solutions.<br>
-  Founder & Lead at <a href="https://linktr.ee/ferzpedia"><b>FERZPEDIA</b></a>.
-</p>
+<br />
 
-<p align="center">
-  <a href="mailto:your-email@example.com">Contact Me</a> •
-  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
-  <a href="https://linktr.ee/ferzpedia">Services</a>
-</p>
+### ━ About Me
+
+I specialize in designing resilient backend architectures, optimizing database performance, and building applications that scale. Operating through **[FERZPEDIA](https://linktr.ee/ferzpedia)**, I collaborate with businesses to modernize their digital infrastructure, develop custom scalable tools, and automate critical workflows.
+
+<br />
+
+### ━ Core Expertise
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Backend & Architecture</b><br>
+      Designing event-driven systems, RESTful/GraphQL APIs, and microservices. Focusing on robust server-side logic and system security.
+    </td>
+    <td width="50%" valign="top">
+      <b>Cloud & DevOps</b><br>
+      Managing containerized deployments, orchestrating assets, and building CI/CD pipelines for seamless integration and delivery.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Database Systems</b><br>
+      Performance tuning, complex querying, and schema design for both relational (SQL) and non-relational (NoSQL) databases.
+    </td>
+    <td width="50%" valign="top">
+      <b>Full-Stack Integration</b><br>
+      Connecting scalable data layers with responsive, user-centric frontend interfaces for end-to-end operational efficiency.
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### ━ Stack & Technologies
+
+*   **Languages:** `TypeScript` `JavaScript` `Python` `Go` `PHP` `Java`
+*   **Web & APIs:** `Node.js` `NestJS` `Express` `React` `Next.js` `FastAPI`
+*   **Infrastructure:** `Docker` `Kubernetes` `AWS` `Linux` `Nginx` `Git`
+*   **Databases:** `PostgreSQL` `MySQL` `MongoDB` `Redis`
+
+<br />
 
 ---
 
-## ✦ Profile
-
-I am a software engineer focused on delivering high-performance IT solutions. My expertise lies in backend development, systems architecture, and process automation. Through **FERZPEDIA**, I consult with businesses to modernize their technical infrastructure and build custom software tailored to their operational needs.
-
-## ✦ Competencies
-
-*   **Systems Engineering:** Microservices architecture, API Gateway implementation, and distributed tracing.
-*   **Backend Automation:** Developing scalable server-side logic and automated data pipelines.
-*   **Infrastructure Management:** Containerization (`Docker`), orchestrating deployments (`Kubernetes`), and managing cloud assets (`AWS`, `GCP`).
-*   **Database Design:** Normalization, complex querying, and performance tuning for both SQL (`PostgreSQL`, `MySQL`) and NoSQL (`MongoDB`, `Redis`) databases.
-
-## ✦ Technology Landscape
-
-> **Languages & Core**  
-> `TypeScript` `Python` `Go` `Java` `JavaScript` `PHP`
-> 
-> **Frameworks & Libraries**  
-> `Node.js` `NestJS` `FastAPI` `Spring Boot` `React` `Next.js` 
-> 
-> **Infrastructure & Tooling**  
-> `Linux` `Docker` `Git` `Nginx` `AWS` `CI/CD`
-
-<br>
-
 <div align="center">
+  <br />
+  <h3>Let's collaborate on your next project.</h3>
+  <p>Reach out for IT consulting, system modernization, or custom software development.</p>
+  
+  <a href="https://linktr.ee/ferzpedia">
+    <img src="https://img.shields.io/badge/FERZPEDIA-Business_Profile-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="FERZPEDIA" />
+  </a>
+  <br><br>
 
-*“Simplicity is the soul of efficiency.”*
+  <p>
+    <a href="mailto:your-email@example.com">Contact via Email</a> • 
+    <a href="https://linkedin.com/in/your-linkedin">LinkedIn Profile</a> • 
+    <a href="https://github.com/FerzDevZ">GitHub Repositories</a>
+  </p>
 
-<br>
-
-<a href="https://github.com/FerzDevZ">
-  <img src="https://github-readme-stats.vercel.app/api?username=FerzDevZ&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff" alt="FerzDevZ Stats" height="150" />
-</a>
-
+  <br />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=FerzDevZ&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000" alt="GitHub Stats" />
+  
+  <br />
 </div>
