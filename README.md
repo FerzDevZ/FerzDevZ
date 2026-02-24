@@ -1,80 +1,134 @@
+<!-- 
+  ==============================================
+  FERZDEVZ PROFESSIONAL GITHUB PROFILE README
+  ==============================================
+  Theme: Ultra-Minimalist, High-Contrast, Elegant
+  Ideal for: Senior Engineers, Tech Consultants
+-->
+
 <div align="center">
-  <br />
-  <h1>FerzDevZ</h1>
-  <p><b>IT Software Engineer & Technical Consultant</b></p>
-  <br />
-  
-  <blockquote>
-    Architecting scalable backend systems, driving automation, <br>
-    and delivering high-performance IT solutions.
-  </blockquote>
+
+<h1 align="center" style="font-weight: 900; letter-spacing: 2px;">F E R Z D E V Z</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FerzDevZ&label=PROFILE+VIEWS&color=000000&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center" style="font-size: 1.2em; color: #555;">
+  <b>Software Architect & Technology Consultant</b>
+</p>
+
+<p align="center">
+  Designing robust distributed systems, high-performance backends, and elegant web solutions.<br/>
+  Delivering enterprise-grade IT architecture and consulting via <b><a href="https://linktr.ee/ferzpedia">FERZPEDIA</a></b>.
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://linktr.ee/ferzpedia">
+    <img src="https://img.shields.io/badge/Business_Profile-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="FERZPEDIA Services" />
+  </a>
+</p>
+
 </div>
 
-<br />
+---
 
-### ━ About Me
+<br/>
 
-I specialize in designing resilient backend architectures, optimizing database performance, and building applications that scale. Operating through **[FERZPEDIA](https://linktr.ee/ferzpedia)**, I collaborate with businesses to modernize their digital infrastructure, develop custom scalable tools, and automate critical workflows.
+<div align="center">
+  <h3>E X P E R T I S E   &   D O M A I N S</h3>
+</div>
 
-<br />
-
-### ━ Core Expertise
+<br/>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <b>Backend & Architecture</b><br>
-      Designing event-driven systems, RESTful/GraphQL APIs, and microservices. Focusing on robust server-side logic and system security.
+    <td width="33%" valign="top">
+      <h4>Backend Engineering</h4>
+      <p>Architecting scalable RESTful and GraphQL APIs. Implementing event-driven microservices using Node.js, Go, and Python to handle high-throughput transactions seamlessly.</p>
     </td>
-    <td width="50%" valign="top">
-      <b>Cloud & DevOps</b><br>
-      Managing containerized deployments, orchestrating assets, and building CI/CD pipelines for seamless integration and delivery.
+    <td width="33%" valign="top">
+      <h4>Cloud Infrastructure</h4>
+      <p>Designing cloud-native ecosystems (AWS/GCP). Specializing in Docker containerization, Kubernetes orchestration, and automated CI/CD pipelines to ensure zero-downtime deployments.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Database Systems</b><br>
-      Performance tuning, complex querying, and schema design for both relational (SQL) and non-relational (NoSQL) databases.
-    </td>
-    <td width="50%" valign="top">
-      <b>Full-Stack Integration</b><br>
-      Connecting scalable data layers with responsive, user-centric frontend interfaces for end-to-end operational efficiency.
+    <td width="33%" valign="top">
+      <h4>Database Systems</h4>
+      <p>Optimizing data layer performance. Expertise in complex schema design, indexing, and migration strategies across PostgreSQL, MySQL, Redis, and MongoDB.</p>
     </td>
   </tr>
 </table>
 
-<br />
-
-### ━ Stack & Technologies
-
-*   **Languages:** `TypeScript` `JavaScript` `Python` `Go` `PHP` `Java`
-*   **Web & APIs:** `Node.js` `NestJS` `Express` `React` `Next.js` `FastAPI`
-*   **Infrastructure:** `Docker` `Kubernetes` `AWS` `Linux` `Nginx` `Git`
-*   **Databases:** `PostgreSQL` `MySQL` `MongoDB` `Redis`
-
-<br />
+<br/>
 
 ---
 
+<br/>
+
 <div align="center">
-  <br />
-  <h3>Let's collaborate on your next project.</h3>
-  <p>Reach out for IT consulting, system modernization, or custom software development.</p>
-  
-  <a href="https://linktr.ee/ferzpedia">
-    <img src="https://img.shields.io/badge/FERZPEDIA-Business_Profile-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="FERZPEDIA" />
-  </a>
-  <br><br>
+  <h3>T E C H N I C A L   S T A C K</h3>
+</div>
 
+<br/>
+
+<div align="center">
   <p>
-    <a href="mailto:your-email@example.com">Contact via Email</a> • 
-    <a href="https://linkedin.com/in/your-linkedin">LinkedIn Profile</a> • 
-    <a href="https://github.com/FerzDevZ">GitHub Repositories</a>
+    <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white" alt="Go" />
   </p>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+    <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  </p>
+</div>
 
-  <br />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=FerzDevZ&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000" alt="GitHub Stats" />
-  
-  <br />
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+  <h3>M E T R I C S   &   I M P A C T</h3>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/FerzDevZ">
+    <img src="https://github-readme-stats.vercel.app/api?username=FerzDevZ&show_icons=true&hide_border=true&bg_color=transparent&title_color=000000&text_color=333333&icon_color=000000&disable_animations=true" alt="FerzDevZ Stats" height="150" />
+  </a>
+  <a href="https://github.com/FerzDevZ">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerzDevZ&layout=compact&hide_border=true&bg_color=transparent&title_color=000000&text_color=333333&disable_animations=true" alt="Top Languages" height="150" />
+  </a>
+</div>
+
+<br/>
+
+<p align="center">
+  <i>"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."</i><br>
+  — Antoine de Saint-Exupéry
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1&width=100%" alt="separator" />
 </div>
