@@ -89,16 +89,44 @@ I leverage a versatile set of tools and technologies to bring ideas to life.
 
 <br/>
 
-### 🏆 Featured Projects & Portfolio
+### � What I Build & Focus On
 
-*Here are some highlights of what I’ve been building. (Replace links and descriptions with your actual projects)*
+Rather than just listing projects, here is a glimpse into the **types of architectures and solutions** I specialize in:
 
-| Project Name | Description | Technologies Built With |
-| :---         | :---        | :---                    |
-| **[Project Alpha / E-Commerce MVP](#)** | A scalable, high-conversion headless e-commerce backend with a responsive storefront. | `Next.js` `Node.js` `PostgreSQL` `Docker` |
-| **[FERZPEDIA Core Dashboard](#)** | Internal business management tool handling analytics, users, and service orders efficiently. | `React` `Express` `MongoDB` `Tailwind` |
-| **[Automated API Gateway](#)** | Custom middleware for request routing, rate limiting, and analytics in microservices. | `Go` `Redis` `Docker` |
-| **[AI Chatbot Integration](#)** | Customer support automation leveraging NLP to resolve user queries automatically. | `Python` `OpenAI API` `FastAPI` |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🛒 Custom E-Commerce Solutions</h3>
+        <p>Developing headless architectures, scalable storefronts, and secure payment integrations tailored for high conversion rates.</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>⚙️ Enterprise System Dashboards</h3>
+        <p>Building comprehensive internal tools (like <b>FERZPEDIA Core</b>) to handle analytics, user management, and seamless operational workflows.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🤖 Automation & AI Integration</h3>
+        <p>Implementing smart chatbots, automated service pipelines, and data-driven APIs to reduce manual workload and increase efficiency.</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>☁️ Cloud & Microservices</h3>
+        <p>Designing robust backend infrastructures using containerization (Docker, Kubernetes) and efficient API Gateways to ensure high availability.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+### 📈 Current Tech Ecosystem & Ventures
+
+Instead of static repositories, I am constantly innovating. Here is where my current energy goes:
+
+*   **Growing @FERZPEDIA**: Scaling the IT services and digital product offerings to reach a broader audience.
+*   **System Optimization**: Refactoring legacy systems into modern, decoupled microservices.
+*   **Open Innovation**: Exploring the latest in web technologies (Next.js 14, Serverless, Edge Computing) to deliver lightning-fast user experiences.
 
 <br/>
 
