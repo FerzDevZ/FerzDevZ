@@ -1,40 +1,54 @@
-# Hi, I'm FerzDevZ
+<div align="center">
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=FerzDevZ&fontSize=50&fontAlignY=50&fontColor=ffffff&desc=IT%20Software%20Engineer&descAlignY=75&descSize=20" alt="FerzDevZ Banner" />
+</div>
 
-**IT Software Engineer & Consultant** · [FERZPEDIA](https://linktr.ee/ferzpedia)
+<h3 align="center">Software Architect & Technical Consultant</h3>
+<p align="center">
+  Designing robust architectures and scalable backend solutions.<br>
+  Founder & Lead at <a href="https://linktr.ee/ferzpedia"><b>FERZPEDIA</b></a>.
+</p>
 
-I am a software developer focused on building robust backend systems, scalable infrastructure, and practical web applications. Currently, I manage **FERZPEDIA**, through which I provide IT consulting, custom software development, and digital business solutions.
-
-### Core Focus
-
-*   **Backend Engineering**: Designing event-driven architectures, building secure RESTful/GraphQL APIs, and optimizing database performance.
-*   **Infrastructure & Cloud**: Managing containerized deployments, server provisioning, and continuous integration pipelines (Linux, AWS).
-*   **Full-Stack Solutions**: Developing end-to-end applications from responsive frontend interfaces to resilient data layers.
-*   **Business Automation**: Building custom internal dashboards, management tools, and workflow automation for clients.
-
-### Technologies
-
-*   **Languages:** TypeScript, JavaScript, Python, Go, Java, PHP
-*   **Frontend:** React, Next.js, Vue.js, Tailwind CSS
-*   **Backend:** Node.js (Express/NestJS), Python (FastAPI/Django), Laravel, Spring Boot
-*   **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-*   **DevOps:** Git, Docker, Kubernetes, Nginx, CI/CD
-
-### Connect & Collaborate
-
-Whether you need a technical partner for a startup MVP, enterprise system modernization, or general IT services, feel free to reach out through my business channels.
-
-[![FERZPEDIA](https://img.shields.io/badge/FERZPEDIA-Business_Profile-0052FF?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/ferzpedia)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<p align="center">
+  <a href="mailto:your-email@example.com">Contact Me</a> •
+  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
+  <a href="https://linktr.ee/ferzpedia">Services</a>
+</p>
 
 ---
 
-<details>
-<summary><b>View GitHub Metrics</b></summary>
+## ✦ Profile
+
+I am a software engineer focused on delivering high-performance IT solutions. My expertise lies in backend development, systems architecture, and process automation. Through **FERZPEDIA**, I consult with businesses to modernize their technical infrastructure and build custom software tailored to their operational needs.
+
+## ✦ Competencies
+
+*   **Systems Engineering:** Microservices architecture, API Gateway implementation, and distributed tracing.
+*   **Backend Automation:** Developing scalable server-side logic and automated data pipelines.
+*   **Infrastructure Management:** Containerization (`Docker`), orchestrating deployments (`Kubernetes`), and managing cloud assets (`AWS`, `GCP`).
+*   **Database Design:** Normalization, complex querying, and performance tuning for both SQL (`PostgreSQL`, `MySQL`) and NoSQL (`MongoDB`, `Redis`) databases.
+
+## ✦ Technology Landscape
+
+> **Languages & Core**  
+> `TypeScript` `Python` `Go` `Java` `JavaScript` `PHP`
+> 
+> **Frameworks & Libraries**  
+> `Node.js` `NestJS` `FastAPI` `Spring Boot` `React` `Next.js` 
+> 
+> **Infrastructure & Tooling**  
+> `Linux` `Docker` `Git` `Nginx` `AWS` `CI/CD`
+
 <br>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FerzDevZ&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="FerzDevZ Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerzDevZ&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150" />
+<div align="center">
+
+*“Simplicity is the soul of efficiency.”*
+
+<br>
+
+<a href="https://github.com/FerzDevZ">
+  <img src="https://github-readme-stats.vercel.app/api?username=FerzDevZ&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff" alt="FerzDevZ Stats" height="150" />
+</a>
+
 </div>
-</details>
